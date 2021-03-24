@@ -1,0 +1,1 @@
+export const FETCH_STOCK_SUCCESS = "[stock] FETCH_STOCK_SUCCESS";
